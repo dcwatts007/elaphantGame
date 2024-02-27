@@ -1,7 +1,7 @@
 # Overview
 
 I created a web game that uses javascript and pixi js. It's currently a simple 2d platformer. Here's the link: https://dcwatts007.github.io/elaphantGame/
-Here's a video of it running. 
+Here's a video of it running: https://www.youtube.com/watch?v=W8p-85m403Y
 
 # Development Environment
 
